@@ -26,8 +26,8 @@
 #define   ledESP32 2                     //pino para controle do LED 2 - led integrado na placa ESP32 (azul)
 // ============================================================================
 // --- Constantes Auxialires ---
-const char *ssid     = "FAMILIA_SILVA";  //atribuir nome da rede WiFi
-const char *password = "toddyvwl"; //atribuir senha da rede
+const char *ssid     = "REDE";  //atribuir nome da rede WiFi
+const char *password = "SENHA"; //atribuir senha da rede
 
 
 // ============================================================================
